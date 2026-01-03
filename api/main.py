@@ -42,9 +42,9 @@ SERIOUS_ACTIONS = [
 ]
 
 # Email configuration
-EMAIL_SENDER = "aliya10akhtar3a@gmail.com"
-EMAIL_PASSWORD = "zkbk foko nncf lsfr"  
-EMAIL_RECEIVER = "aminah30akhtar3a@gmail.com"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""  
+EMAIL_RECEIVER = ""
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
